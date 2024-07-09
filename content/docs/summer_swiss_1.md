@@ -11,6 +11,6 @@ draft = false
 - Rating: *USCF Quick and Regular*
 - Time control: *30 minutes*, no delay and no bonus
 - Please bring: *chess clock, pen, chess set*
-- Other: Tournament is held in an *outdoor* pavilion. Dress appropriately and stay cool and hydrated because the weather may be warm. Also, you must **fill out the pre-registration form** and **respond to the verification email on the morning of the tournament by 9:00 AM EST on July 14, 2024**. The verification email will be sent out in the early hours of July 14, 2024.
+- Other: Tournament is held in an *outdoor* pavilion. Dress appropriately and please bring refreshments to stay hydrated because the weather may be warm. Also, you must **fill out the pre-registration form** and **respond to the verification email on the morning of the tournament by 9:00 AM EST on July 14, 2024**. The verification email will be sent out in the early hours of July 14, 2024.
 - Sign-up: **[Pre-registration Form](https://forms.gle/gM7j4gVzb9DMYDyW9)**
 
