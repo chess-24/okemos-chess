@@ -1,0 +1,5 @@
+baseURL: https://chess-24.github.io/okemos-chess/
+languageCode: en-us
+title: Okemos Chess
+theme: ["PaperMod"]
+copyright: "© [Okemos Chess](mailto:okemoschess24@gmail.com)"
