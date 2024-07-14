@@ -5,7 +5,7 @@ draft = false
 +++
 
 ## Summer Swiss (I) Tournament
-- Date: *Sunday, July 20, 2024*
+- Date: *Saturday, July 20, 2024*
 - Scheduled Time: *10 AM EST to 2 PM EST*
 - Location: *[2055 Towner Rd, Haslett, MI 48840](https://maps.app.goo.gl/ZXz4VqWzU5FqWW237)*
 - Rating: *USCF Quick and Regular*
