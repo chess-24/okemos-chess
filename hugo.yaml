@@ -10,3 +10,6 @@ params:
   env: production
 
 googleAnalytics: G-Q8E1VDDMRJ
+services:
+  googleAnalytics:
+    id: G-Q8E1VDDMRJ

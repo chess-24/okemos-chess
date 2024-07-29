@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/okemos-chess/</loc>
+    <loc>https://chess-24.github.io/okemos-chess/</loc>
     <lastmod>2024-08-10T20:40:22-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/okemos-chess/tournaments/speedy-6-super-swiss-august/</loc>
+    <loc>https://chess-24.github.io/okemos-chess/tournaments/speedy-6-super-swiss-august/</loc>
     <lastmod>2024-08-10T20:40:22-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/okemos-chess/tournaments/</loc>
+    <loc>https://chess-24.github.io/okemos-chess/tournaments/</loc>
     <lastmod>2024-08-10T20:40:22-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/okemos-chess/tournaments/capital-region-july-swiss-1/</loc>
+    <loc>https://chess-24.github.io/okemos-chess/tournaments/capital-region-july-swiss-1/</loc>
     <lastmod>2024-07-20T12:01:52-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/okemos-chess/categories/</loc>
+    <loc>https://chess-24.github.io/okemos-chess/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/okemos-chess/tags/</loc>
+    <loc>https://chess-24.github.io/okemos-chess/tags/</loc>
   </url>
 </urlset>
