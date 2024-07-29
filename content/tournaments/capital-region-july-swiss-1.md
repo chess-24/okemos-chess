@@ -1,8 +1,13 @@
 +++
 title = 'Capital Region July Swiss 1'
-date = 2024-07-14T12:01:52-04:00
+date = 2024-07-20T12:01:52-04:00
 draft = false
 +++
+## Results
+| Pair Number | Player Name     | Total Points | Round 1 | Round 2 |
+| :---------- | :-------------- | :----------- | :------ | :------ |
+| 1           | Hanshi Zuo      | 2.0          | Win vs. 2 as black | Win vs. 2 as white |
+| 2           | Hanwen Zuo      | 0.0          | Loss vs. 1 as white | Loss vs. 2 as black |
 
 ## Sign-up
 **[Pre-registration Form](https://forms.gle/gM7j4gVzb9DMYDyW9)** - the deadline to pre-register is Friday, July 19, 11 PM EST

@@ -2,19 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tournaments on Okemos Chess</title>
-    <link>https://chess-24.github.io/okemos-chess/tournaments/</link>
+    <link>http://localhost:1313/okemos-chess/tournaments/</link>
     <description>Recent content in Tournaments on Okemos Chess</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <copyright>Okemos Chess</copyright>
-    <lastBuildDate>Sun, 14 Jul 2024 12:01:52 -0400</lastBuildDate>
-    <atom:link href="https://chess-24.github.io/okemos-chess/tournaments/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Aug 2024 20:40:22 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/okemos-chess/tournaments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Speedy 6 Super Swiss</title>
+      <link>http://localhost:1313/okemos-chess/tournaments/speedy-6-super-swiss-august/</link>
+      <pubDate>Sat, 10 Aug 2024 20:40:22 -0400</pubDate>
+      <guid>http://localhost:1313/okemos-chess/tournaments/speedy-6-super-swiss-august/</guid>
+      <description>Sign-up Pre-registration Form - the deadline to pre-register is Friday, August 9, 11 PM EST
+Registered Players Name USCF Rating Hanshi Zuo 1984 Hanwen Zuo 469 Details Date: Saturday, August 10, 2024 Scheduled Time: 9 AM EST to 2 PM EST Location: 2055 Towner Rd, Haslett, MI 48840 Rating: USCF Quick and Regular Time control: 5 minutes, 25 second delay Please bring: chess clock, pen, chess set, and thirty dollar entrance fee Environment: Tournament is held in an outdoor pavilion.</description>
+    </item>
     <item>
       <title>Capital Region July Swiss 1</title>
-      <link>https://chess-24.github.io/okemos-chess/tournaments/capital-region-july-swiss-1/</link>
-      <pubDate>Sun, 14 Jul 2024 12:01:52 -0400</pubDate>
-      <guid>https://chess-24.github.io/okemos-chess/tournaments/capital-region-july-swiss-1/</guid>
-      <description>Sign-up Pre-registration Form - the deadline to pre-register is Friday, July 19, 11 PM EST
+      <link>http://localhost:1313/okemos-chess/tournaments/capital-region-july-swiss-1/</link>
+      <pubDate>Sat, 20 Jul 2024 12:01:52 -0400</pubDate>
+      <guid>http://localhost:1313/okemos-chess/tournaments/capital-region-july-swiss-1/</guid>
+      <description>Results Pair Number Player Name Total Points Round 1 Round 2 1 Hanshi Zuo 2.0 Win vs. 2 as black Win vs. 2 as white 2 Hanwen Zuo 0.0 Loss vs. 1 as white Loss vs. 2 as black Sign-up Pre-registration Form - the deadline to pre-register is Friday, July 19, 11 PM EST
 Registered Players Name USCF Rating Hanshi Zuo 1984 Hanwen Zuo 469 Details Date: Saturday, July 20, 2024 Scheduled Time: 10 AM EST to 2:30 PM EST Location: 2055 Towner Rd, Haslett, MI 48840 Rating: USCF Quick and Regular Time control: 30 minutes, no delay and no bonus Please bring: chess clock, pen, chess set Other: Tournament is held in an outdoor pavilion.</description>
     </item>
   </channel>

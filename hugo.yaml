@@ -3,3 +3,10 @@ languageCode: en-us
 title: Okemos Chess
 theme: ["PaperMod"]
 copyright: "© [Okemos Chess](mailto:okemoschess24@gmail.com)"
+
+buildFuture: true
+
+params:
+  env: production
+
+googleAnalytics: G-Q8E1VDDMRJ
