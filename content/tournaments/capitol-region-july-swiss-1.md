@@ -1,5 +1,5 @@
 +++
-title = 'Capital Region July Swiss 1'
+title = 'Capitol Region July Swiss 1'
 date = 2024-07-20T12:01:52-04:00
 draft = false
 +++
