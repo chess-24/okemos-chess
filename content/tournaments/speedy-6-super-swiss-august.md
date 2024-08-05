@@ -10,6 +10,7 @@ draft = false
 | Name                        | USCF Rating |
 | :-------------------------- | :---------- |
 | Hanshi Zuo                  | 1984        |
+| Brandon Vasos               | 1748        |
 | Hanwen Zuo                  | 469         |
 
 ## Discounts
