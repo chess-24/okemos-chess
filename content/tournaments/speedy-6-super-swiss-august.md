@@ -23,7 +23,7 @@ To qualify for the referee discount, the refer must already be pre-registered, a
 ## Details 
 - Date: Saturday, August 10, 2024
 - Scheduled Time: 9 AM EST to 2 PM EST
-- Location: [3685 Hulett Rd, Okemos, MI 48864](https://maps.app.goo.gl/XxU3FQgcSo5Ncwc19)
+- Location: [5191 Meridian Rd, Williamston, MI 48895](https://maps.app.goo.gl/Hf2qhrsgkCR5PPRAA)
 - Rating: USCF Quick and Regular
 - Time control: 5 minutes, 25 second delay
 - Please bring: *chess clock, pen, and chess set*
