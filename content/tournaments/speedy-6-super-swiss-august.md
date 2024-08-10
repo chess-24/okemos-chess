@@ -3,6 +3,13 @@ title = 'Speedy 6 Super Swiss'
 date = 2024-08-10T20:40:22-04:00
 draft = false
 +++
+## Results
+| Pair Number | Player Name     | Total Points | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 | Round 6 |
+| :---------- | :-------------- | :----------- | :------ | :------ | :------ | :------ | :------ | :------ |
+| 1           | Hanshi Zuo      | 2.0          | Win vs. 3 as black  | Loss vs. 2 as white | Bye                 | Win vs. 3 as white  | Loss vs. 2 as black | Bye                 |
+| 2           | Brandon Vasos   | 4.0          | Bye                 | Win vs. 1 as black  | Win vs. 3 as white  | Bye                 | Win vs. 1 as white  | Win vs. 3 as black  |
+| 3           | Hanwen Zuo      | 0.0          | Loss vs. 1 as white | Bye                 | Loss vs. 2 as black | Loss vs. 1 as black | Bye                 | Loss vs. 2 as white |
+
 ## Sign-up
 **[Pre-registration Form](https://forms.gle/CiD7rCdjydFmXkJx7)** - the deadline to pre-register is Friday, August 9, 11 PM EST
 
