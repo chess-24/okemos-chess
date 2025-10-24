@@ -26,6 +26,7 @@ This is a *21%* discount for young adult players (ages 18 to 23) and is an *8%* 
 ## Registered Players
 | Name                        | USCF Rating |
 | :-------------------------- | :---------- |
+| Waleed Yassine              | 2086        |
 | Hanshi Zuo                  | 1860        |
 | Hanwen Zuo                  | 539         |
 
