@@ -28,6 +28,7 @@ This is a *21%* discount for young adult players (ages 18 to 23) and is an *8%* 
 | :-------------------------- | :---------- |
 | Waleed Yassine              | 2086        |
 | Hanshi Zuo                  | 1860        |
+| Ho Ming Ni                  | 1326        |
 | Hanwen Zuo                  | 539         |
 | Matthew Sanchez             | Unrated     |
 
