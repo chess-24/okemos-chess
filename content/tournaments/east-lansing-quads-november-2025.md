@@ -6,8 +6,9 @@ draft = false
 
 ## Sign-up
 The registration deadline is Saturday, November 1, 10 PM EST.
+To play, you must register and pay online before the deadline because pairing for round one is performed prior to tournament start.
 ### Standard Entry
-The standard entry is $19. **[Standard Registration Form](https://forms.gle/8iyC3hdFRhTf9CoZA).**
+The standard entry is $19 for active United States Chess Federation (USCF) members. **[Standard Registration Form](https://forms.gle/8iyC3hdFRhTf9CoZA).**
 
 ### Bundle Deal for Young Players
 The bundle includes an annual United States Chess Federation (USCF) and Michigan Chess Association (MCA) membership as well as tournament entry for only $49!
@@ -26,9 +27,9 @@ This is a *21%* discount for young adult players (ages 18 to 23) and is an *8%* 
 ## Registered Players
 | Name                        | USCF Rating |
 | :-------------------------- | :---------- |
-| Waleed Yassine              | 2086        |
-| Hanshi Zuo                  | 1860        |
-| Ho Ming Ni                  | 1326        |
-| Hanwen Zuo                  | 539         |
-| Matthew Sanchez             | Unrated     |
+| Yassine, W.                 | 2086        |
+| Zuo, Hs.                    | 1860        |
+| Ni, H.M.                    | 1326        |
+| Zuo, Hw.                    | 539         |
+| Sanchez, M.                 | Unrated     |
 
