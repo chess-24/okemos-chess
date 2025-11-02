@@ -30,7 +30,9 @@ This is a *21%* discount for young adult players (ages 18 to 23) and is an *8%* 
 | Yassine, W.                 | 2086        |
 | Sosa, G.                    | 1904        |
 | Zuo, Hs.                    | 1860        |
+| Vasos, B.                   | 1759        |
 | Ni, H.M.                    | 1326        |
+| Tu, E.                      | 605         |
 | Zuo, Hw.                    | 539         |
 | Sanchez, M.                 | Unrated     |
 | Potturu, R.                 | Unrated     |
