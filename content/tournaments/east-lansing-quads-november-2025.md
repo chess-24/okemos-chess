@@ -28,8 +28,10 @@ This is a *21%* discount for young adult players (ages 18 to 23) and is an *8%* 
 | Name                        | USCF Rating |
 | :-------------------------- | :---------- |
 | Yassine, W.                 | 2086        |
+| Sosa, G.                    | 1904        |
 | Zuo, Hs.                    | 1860        |
 | Ni, H.M.                    | 1326        |
 | Zuo, Hw.                    | 539         |
 | Sanchez, M.                 | Unrated     |
+| Potturu, R.                 | Unrated     |
 
