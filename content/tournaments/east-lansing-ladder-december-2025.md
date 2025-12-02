@@ -13,7 +13,7 @@ The standard entry is $19 for active United States Chess Federation (USCF) membe
 To activate/reactivate USCF membership at a discount, please follow the instructions in this form. **[Discounted Membership Form](https://forms.gle/SQg5vnswCxhQWfYy9)**
 
 ## Details 
-- Date: ~December 21, 2025.
+- Date: Sunday, December 21, 2025.
 - Scheduled Time: Runs from 1:15-4:35 PM ET (rounds at 1:15, 2:55)
 - Location: [East Lansing Public Library - 950 Abbot Rd, East Lansing, MI 48823](https://maps.app.goo.gl/Qo6N48RPqqG8MSEs5)
 - Logistics: **Fill out and follow the instructions in the registration form.** If you wish to refund your registration, please email [okemoschess24@gmail(DOT)com](mailto:okemoschess24@gmail.com?subject=REFUND%20%2D%20November%2029%2C%202025%20East%20Lansing%20Quads) with a refund request, using your registration email, prior to the registration deadline (Saturday, December 20, 10 PM EST)
