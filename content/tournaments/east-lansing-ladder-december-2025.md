@@ -31,5 +31,7 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 | :-------------------------- | :---------- |
 | Yassine, W.                 | 2147        |
 | Zuo, Hs.                    | 1857        |
+| Briskie, J.                 | 1463        |
 | McCornack, C.               | 1461        |
+| Pappas, A.                  | 1335        |
 | Zuo, Hw.                    | 553         |
