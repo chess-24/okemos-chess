@@ -7,7 +7,7 @@ draft = false
 The registration deadline is **Saturday, January 3, 10 PM EST.**
 To play, you must register and pay online before the deadline because pairing for round one is performed prior to tournament start.
 ### Standard Entry
-Entry is FREE for players who sign up and pay for our January 31st swiss **[Swiss Form](https://forms.gle/UzAWSLtDqpdkCbqZ9)**. The standard entry is $9 for active United States Chess Federation (USCF) members, if paid before Friday, January 2, 10 PM EST. If payment is made after January 2, the entry is $14. **[Standard Registration Form](https://forms.gle/cDgkL2Zo1B6o3Fsq8)**. For free entry, BOTH forms must be filled.
+Entry is FREE for players who sign up and pay for our January 31st swiss before Saturday, January 3, 10 PM. **[5 Round Swiss Form](https://forms.gle/UzAWSLtDqpdkCbqZ9)**. The standard entry is $9 for active United States Chess Federation (USCF) members, if paid before Friday, January 2, 10 PM EST. If payment is made after January 2, the entry is $14. **[Standard Registration Form](https://forms.gle/cDgkL2Zo1B6o3Fsq8)**. For free entry, BOTH forms must be filled.
 
 ### Discounted USCF Membership
 To activate/reactivate USCF membership at a discount, please follow the instructions in this form. **[Discounted Membership Form](https://forms.gle/SQg5vnswCxhQWfYy9)**
