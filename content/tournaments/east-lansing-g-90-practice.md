@@ -29,6 +29,7 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
+Last updated: Jan. 3, 2026, 7:40pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | :---------- |
 | Yassine, W.                 | 2122        |
