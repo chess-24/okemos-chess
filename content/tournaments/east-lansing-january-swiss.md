@@ -29,12 +29,18 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Jan. 4, 2026, 12:10am ET
+Last updated: Jan. 24, 2026, 2:25pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | :---------- |
 | Yassine, W.                 | 2122        |
 | Zuo, Hs.                    | 1857        |
-| Ni, H.M.                    | 1320        |
+| Kigundu, E.                 | 1725        |
+| Primus, J.                  | 1577        |
+| Pasikowski, W. (Pending)    | 1251        |
 | Hancock, C.                 | 1085        |
+| Gaebler, I.                 | 1059        |
+| Schulze, K.                 | 745         |
 | Zuo, Hw.                    | 553         |
+| Lamond, R. (Pending)        | 519         |
+| Prabu, A.                   | 470         |
 
