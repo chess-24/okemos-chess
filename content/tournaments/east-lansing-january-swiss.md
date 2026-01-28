@@ -13,8 +13,8 @@ The standard entry is 29 dollars for active United States Chess Federation (USCF
 ### Discounted USCF Membership
 To activate/reactivate USCF membership at a discount, please follow the instructions in this form. **[Discounted Membership Form](https://forms.gle/SQg5vnswCxhQWfYy9)**
 
-## Details 
-- Payment: Please pay the tournament entry to OkemosChess24(AT)gmail(DOT)com on [Cash App](https://cash.app/). If you're opening a new Cash App account, you can use referral code 5DWL4F7 to get a $5 bonus in Cash App.
+## Details
+- Payment: Please pay the tournament entry to OkemosChess24(AT)gmail(DOT)com on [Cash App](https://cash.app/) and include a note with the player name and USCF ID in the payment. If you're opening a new Cash App account, you can use referral code 5DWL4F7 to get a $5 bonus in Cash App.
 - Refunds: If you wish to refund your registration, please email [okemoschess24(AT)gmail(DOT)com](mailto:okemoschess24@gmail.com?subject=REFUND%20%2D%20January%2031%2C%202026%20East%20Lansing%20Swiss) with a refund request, using your registration email, prior to the registration deadline (Saturday, January 3, 10 PM EST).
 - Logistics: Fill out and follow the instructions in the registration form. Then, pay the tournament entry fee via Cash App.
 - Date: Saturday, January 31, 2026.
@@ -36,11 +36,12 @@ Last updated: Jan. 24, 2026, 2:25pm ET
 | Zuo, Hs.                    | 1857        |
 | Kigundu, E.                 | 1725        |
 | Primus, J.                  | 1577        |
+| Church, A. (Pending)        | 1322        |
 | Pasikowski, W. (Pending)    | 1251        |
 | Hancock, C.                 | 1085        |
 | Gaebler, I.                 | 1059        |
 | Schulze, K.                 | 745         |
 | Zuo, Hw.                    | 553         |
-| Lamond, R. (Pending)        | 519         |
+| Lamond, R.                  | 519         |
 | Prabu, A.                   | 470         |
 
