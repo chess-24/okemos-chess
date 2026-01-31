@@ -8,10 +8,10 @@ The registration deadline is **Friday, January 30, 10 PM EST.**
 To play, you must register and pay online before the deadline because pairing for round one is performed prior to tournament start.
 
 ### Standard Entry
-The standard entry is 34 dollars for active United States Chess Federation (USCF) members, if paid on Friday, January 29, 10 PM EST before the registration deadline. **[Standard Registration Form](https://forms.gle/UzAWSLtDqpdkCbqZ9)**.
+The standard entry is 34 dollars for *active* United States Chess Federation (USCF) members. ~~**[Standard Registration Form](https://forms.gle/UzAWSLtDqpdkCbqZ9)**~~ registration closed except for certain potential players that previously contacted the tournament director prior to the deadline.
 
 ### Discounted USCF Membership
-To activate/reactivate USCF membership at a discount, please follow the instructions in this form. **[Discounted Membership Form](https://forms.gle/SQg5vnswCxhQWfYy9)**
+To activate/reactivate USCF membership at a discount, please follow the instructions in the following form. Membership is *separate* from tournament entry and both an active USCF membership as well as a valid tournament entry is required. **[Discounted Membership Form](https://forms.gle/SQg5vnswCxhQWfYy9)**
 
 ## Details
 - Payment: Please pay the tournament entry to OkemosChess24(AT)gmail(DOT)com on [Cash App](https://cash.app/) and include a note with the player name and USCF ID in the payment. If you're opening a new Cash App account, you can use referral code 5DWL4F7 to get a $5 bonus in Cash App.
@@ -29,7 +29,7 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Jan. 29, 2026, 11:00pm ET
+Last updated: Jan. 30, 2026, 11:00pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Alvarez Albo, C.            | 2241        |
@@ -40,6 +40,7 @@ Last updated: Jan. 29, 2026, 11:00pm ET
 | Wan, W.                     | 1585        |
 | Jiang, D.                   | 1584        |
 | Primus, J.                  | 1577        |
+| Briskie, J.                 | 1463        |
 | Church, A.                  | 1322        |
 | Wang, S.                    | 1268        |
 | Pasikowski, W.              | 1251        |
