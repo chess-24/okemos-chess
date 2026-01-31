@@ -49,7 +49,6 @@ Last updated: Jan. 30, 2026, 11:00pm ET
 | Gaebler, I.                 | 1059        |
 | Schulze, K.                 | 745         |
 | Meeks, B.                   | 741         |
-| Zuo, Hw.                    | 553         |
 | Lamond, R.                  | 519         |
 | Prabu, A.                   | 470         |
 | Beach, J.                   | 182         |
