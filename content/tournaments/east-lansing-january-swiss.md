@@ -8,7 +8,7 @@ The registration deadline is **Friday, January 30, 10 PM EST.**
 To play, you must register and pay online before the deadline because pairing for round one is performed prior to tournament start.
 
 ### Standard Entry
-The standard entry is 34 dollars for *active* United States Chess Federation (USCF) members. ~~**[Standard Registration Form](https://forms.gle/UzAWSLtDqpdkCbqZ9)**~~ registration closed except for certain potential players that previously contacted the tournament director prior to the deadline.
+The standard entry is 34 dollars for *active* United States Chess Federation (USCF) members. ~~**[Standard Registration Form]()**~~ Registration closed.
 
 ### Discounted USCF Membership
 To activate/reactivate USCF membership at a discount, please follow the instructions in the following form. Membership is *separate* from tournament entry and both an active USCF membership as well as a valid tournament entry is required. **[Discounted Membership Form](https://forms.gle/SQg5vnswCxhQWfYy9)**
@@ -44,6 +44,7 @@ Last updated: Jan. 30, 2026, 11:00pm ET
 | Church, A.                  | 1322        |
 | Wang, S.                    | 1268        |
 | Pasikowski, W.              | 1251        |
+| Wong, N.                    | 1217        |
 | Hancock, C.                 | 1085        |
 | Gaebler, I.                 | 1059        |
 | Schulze, K.                 | 745         |
