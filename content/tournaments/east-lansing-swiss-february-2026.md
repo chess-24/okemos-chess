@@ -21,7 +21,7 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Scheduled Time: Runs from 1:15 PM - 4:45 PM ET (rounds at 1:15, 2:23, 3:33)
 - Location: [East Lansing Public Library - 950 Abbot Rd, East Lansing, MI 48823](https://maps.app.goo.gl/Qo6N48RPqqG8MSEs5)
 - Prizes: (based on a target turnout of 10 players) 1st: $100, 2nd: $70, Top Upset: $50. Note that these prizes scale with player turnout.
-- Upsets: A game is considered an upset if a lower rated players defeats a higher rated player. We rank upsets based on the rating differential of the two players, with the upset featuring the largest differential winning the prize. 
+- Upsets: A game is considered an upset if a lower rated players defeats a higher rated player. We rank upsets based on the rating differential of the two players, with the upset featuring the largest differential winning the prize. Because it is not possible to calculate an upset differential for unrated players, unrated players are not eligible for the upset prize; however, they are eligble for 1st and 2nd place prizes.
 - Ratings: We will take official USCF ratings on the evening of January 29 to be player ratings. If no such ratings are available, we will use provisional ratings. If that is unavailable, the player is considered unrated for the purposes of prizes. Unrated players may not win prizes other than 1st and 2nd place prizes nor do their defeats/victories count as upsets.
 - Format: 3 round swiss, all players play 3 rounds, no elimination
 - Rating mode: USCF regular and quick rated
@@ -29,9 +29,13 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Feb. 1, 2026, 5:00pm ET
+Last updated: Feb. 8, 2026, 7:00pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
+| Waleed, Y.                  | 2104        |
 | Zuo, Hs.                    | 1890        |
 | Zuo, Hw.                    | 567         |
+| Lamond, R.                  | 519         |
+| Chavez, C. (pending)        | Unrated     |
+| Grant, A. (pending)         | Unrated     |
 
