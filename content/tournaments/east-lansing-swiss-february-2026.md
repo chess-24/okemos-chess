@@ -29,16 +29,15 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Feb. 12, 2026, 6:50pm ET
+Last updated: Feb. 15, 2026, 11:00am ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Waleed, Y.                  | 2104        |
+| Gabbara, F.                 | 2028        |
 | Zuo, Hs.                    | 1890        |
-| McGowan, M. (pending)       | 1533        |
-| Pappas, A.                  | 1460        |
 | Zuo, Hw.                    | 567         |
 | Lamond, R.                  | 519         |
 | Pakanati, S.                | Unrated     |
-| Chavez, C. (pending)        | Unrated     |
-| Grant, A. (pending)         | Unrated     |
+| Chavez, C.                  | Unrated     |
+| Grant, A.                   | Unrated     |
 
