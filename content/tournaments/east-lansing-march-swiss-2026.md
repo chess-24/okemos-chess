@@ -29,15 +29,16 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Feb. 26, 2026, 6:30pm ET
+Last updated: Feb. 28, 2026, 8:45pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Yassine, W.                 | 2104        |
 | Zuo, Hs.                    | 1910        |
 | Wan, W.                     | 1585        |
 | Pappas, A.                  | 1460        |
+| Ni, H.                      | 1434        |
 | Rankin, H.                  | 1419        |
 | Feldman, J.                 | 892         |
 | Zuo, Hw.                    | 567         |
-| Lamond, R.                  | 519         |
+| Patel, K.                   | 101         |
 | Smith, B.                   | Unrated     |
