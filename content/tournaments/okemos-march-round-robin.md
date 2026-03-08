@@ -14,7 +14,7 @@ If you do NOT have a Cash App account, you qualify for free entry (membership se
 The standard entry is 9 dollars for *active* United States Chess Federation (USCF) members. For registrations after Thursday, March 26, the entry fee is 15.**[Standard Registration Form](https://forms.gle/oS2yH12rgnGEj32d7)**
 
 ### Cash Entry
-There is an option to pay 20 in cash onsite. However, you still MUST register with the standard form. Players also must arrive 15 minutes prior to the start of round one. 
+There is an option to pay 20 in cash onsite. However, you still MUST register with the standard form. Players also must arrive 10 minutes prior to the start of round one. 
 
 ### Discounted USCF Membership
 To activate/reactivate USCF membership at a discount, please follow the instructions in the following form. Membership is *separate* from tournament entry and both an active USCF membership as well as a valid tournament entry is required for tournament entry. **[Discounted Membership Form](https://forms.gle/SQg5vnswCxhQWfYy9)**
