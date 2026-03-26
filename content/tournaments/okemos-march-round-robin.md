@@ -37,7 +37,9 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 Last updated: Mar. 21, 2026, 1:00pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
+| Yassine, W.                 | 2137        |
 | Zuo, Hs.                    | 1910        |
 | Shen, H.                    |  709        |
 | Zuo, Hw.                    |  567        |
+| Beach, J.                   |  356        |
 
