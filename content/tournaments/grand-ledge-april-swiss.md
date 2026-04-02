@@ -32,6 +32,8 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 Last updated: Mar. 1, 2026, 1:00am ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
+| Hug, T.                     | 1918        |
 | Zuo, Hs.                    | 1916        |
+| Rankin, H.                  | 1421        |
 | Zuo, Hw.                    | 567         |
 
