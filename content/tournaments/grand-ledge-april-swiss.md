@@ -29,12 +29,14 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Apr. 3, 2026, 5:00pm ET
+Last updated: Apr. 4, 2026, 1:00am ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
+| Zuo, H.                     | 1939        |
 | Hug, T.                     | 1918        |
-| Zuo, Hs.                    | 1916        |
+| Ouzts, M.                   | 1856        |
+| Pappas, A.                  | 1476        |
 | Rankin, H.                  | 1421        |
 | Baas, B.                    |  831        |
-| Zuo, Hw.                    |  567        |
+
 
