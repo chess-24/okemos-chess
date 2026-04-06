@@ -1,6 +1,6 @@
 +++
 title = 'Grand Ledge 5 Round Swiss, May 2, 2026'
-date = 2026-04-06T00:41:08-05:00
+date = 2026-04-05T00:41:08-05:00
 draft = false
 +++
 ## Sign-up
