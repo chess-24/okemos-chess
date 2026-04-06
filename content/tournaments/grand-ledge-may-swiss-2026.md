@@ -8,7 +8,7 @@ The registration deadline is **Friday, May 1, 10 PM EST.**
 To play, you must register and pay online before the deadline because pairing for round one is performed prior to tournament start.
 
 ### Standard Entry
-The standard entry is 27 dollars for *active* United States Chess Federation (USCF) members. [Standard Registration Form](https://forms.gle/YnCE1P2yQBHr3H539).
+The standard entry is 27 dollars for *active* United States Chess Federation (USCF) members. After April 30th, the entry increases to 32 [Standard Registration Form](https://forms.gle/YnCE1P2yQBHr3H539).
 
 ### Discounted USCF Membership
 To activate/reactivate USCF membership at a discount, please follow the instructions in the following form. Membership is *separate* from tournament entry and both an active USCF membership as well as a valid tournament entry is required. **[Discounted Membership Form](https://forms.gle/SQg5vnswCxhQWfYy9)**
