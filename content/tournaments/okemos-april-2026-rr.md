@@ -3,15 +3,18 @@ title = 'Okemos 5 Game Round Robin, April 19, 2026'
 date = 2026-04-07T00:41:08-05:00
 draft = false
 +++
+## EVENT CANCELLED
+Due to unforeseen weather and conditions, this tournament has been cancelled.
+
 ## Sign-up
 The registration deadline is **Saturday, April 18, 10 PM EST.**
 To play, you must register by the above deadline (even if you plan on paying cash).
 
 ### Free Entry
-If you do NOT have a Cash App account, you qualify for free entry (membership separate). Space limited, so act fast! **[Free Entry Form](https://forms.gle/xb7s76QcwQaoG7Az7)**
+If you do NOT have a Cash App account, you qualify for free entry (membership separate). Space limited, so act fast! ~~**[Free Entry Form]()**~~Event Cancelled
 
 ### Standard Entry
-The standard entry is 9 dollars for *active* United States Chess Federation (USCF) members. For registrations after Thursday, April 16, the entry fee is 15.**[Standard Registration Form](https://forms.gle/vaLwBk6jLFbMpFer8)**
+The standard entry is 9 dollars for *active* United States Chess Federation (USCF) members. For registrations after Thursday, April 16, the entry fee is 15.~~**[Standard Registration Form]()**~~Event Cancelled
 
 ### Cash Entry
 There is an option to pay 20 in cash onsite. However, you still MUST register with the standard form. Players also must arrive 10 minutes prior to the start of round one. 
