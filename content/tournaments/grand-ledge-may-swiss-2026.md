@@ -33,6 +33,8 @@ Last updated: Apr. 6, 2026, 1:00am ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Zuo, Hs.                    | 1939        |
+| Hug, T.                     | 1918        |
+| Pappas, A.                  | 1476        |
 | Zuo, Hw.                    |  567        |
 
 
