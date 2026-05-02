@@ -32,10 +32,13 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 Last updated: Apr. 6, 2026, 1:00am ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
+| Yassine, W.                 | 2085        | 
 | Zuo, Hs.                    | 1939        |
 | Hug, T.                     | 1918        |
 | Pappas, A.                  | 1476        |
+| Wright, J.                  |  753        |
 | Zuo, Hw.                    |  567        |
+| Edie, T. (pending)          | Unrated     |
 
 
 
