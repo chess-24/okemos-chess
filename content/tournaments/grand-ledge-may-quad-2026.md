@@ -30,10 +30,10 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 ## Details 
 - Logistics: Fill out and follow the instructions in the registration form. Then, pay the tournament entry via Cash App.
 - Date: Saturday, May 30, 2026.
-- Scheduled Time: Runs from 10:15-4:00 PM ET (round one starts at 10:15 AM sharp)
+- Scheduled Time: Runs from 10:15 AM - 4:00 PM ET (rounds at 10:15, 12:00, LUNCH (from 1:45-2:15), 2:15)
 - Location: [Grand Ledge Area District Library - 131 E Jefferson St, Grand Ledge, MI 48837](https://maps.app.goo.gl/8EK2tjdqN1MGTYt76)
 - Prizes: First place of each quad is awarded $60
-- Format: Three round quad, there's a possibility of one section of six players paired in a swiss
+- Format: Three round quad
 - Rating: USCF quick and regular rated
 - Time control: Game 50 with no delay no increment (G/50; d0)
 - Please bring: chess clock, pen, and chess set
