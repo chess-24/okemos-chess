@@ -17,7 +17,7 @@ The early pay entry is 19 dollars for active USCF members before Thursday, May 2
 To activate/reactivate USCF membership at a discount, please follow the instructions in this form.
 **[Discounted Membership Form](https://forms.gle/SQg5vnswCxhQWfYy9)**
 
-## How to Pay
+### How to Pay
 - Activate USCF membership
   - If not active, obtain membership via USCF or through the *[Discounted Membership Form](https://forms.gle/SQg5vnswCxhQWfYy9)*
 - Make tournament entry payment
@@ -44,7 +44,7 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 ## Registered Players
 Last updated: May 9, 2026, 3:00 PM ET
 | Name                        | USCF Rating |
-| :-------------------------- | :---------- |
+| :-------------------------- | ----------: |
 | Zuo, Hs.                    | 1919        |
 | Zuo, Hw.                    | 541         |
 
