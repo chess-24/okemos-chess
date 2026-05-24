@@ -7,7 +7,7 @@ draft = false
 The registration deadline is **Friday May 29, 10 PM EST.**
 To play, you must register and pay online before the deadline because pairing for round one is performed prior to tournament start.
 
-### Bundle Deal & Standard Entry
+### Standard Entry
 The early pay entry is 27 dollars for active USCF members before Thursday, May 28, 10 PM EST. If payment is made after May 28, the entry is 32 dollars.
 **[Registration Form](https://forms.gle/PzrGqEz1ScuGN22c6)**
 
@@ -39,11 +39,12 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: May 20, 2026, 2:40 PM ET
+Last updated: May 24, 2026, 4:00 PM ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Yassine, W.                 | 2085        |
 | Hug, T.                     | 1941        |
 | Zuo, Hs.                    | 1919        |
+| Yan, G.                     | 1570        |
 | Zuo, Hw.                    | 541         |
 
