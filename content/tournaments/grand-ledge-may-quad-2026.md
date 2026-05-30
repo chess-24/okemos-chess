@@ -39,14 +39,16 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: May 28, 2026, 1:00 AM ET
+Last updated: May 30, 2026, 11:00 PM ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Yassine, W.                 | 2085        |
 | Hug, T.                     | 1941        |
 | Zuo, Hs.                    | 1919        |
+| Sanchez, M.                 | 1724        |
 | Yan, G.                     | 1570        |
 | Croel, E.                   | 1494        |
-| Rose, L. (pending)          | 1005        |
+| Rankinh, H.                 | 1400        |
+| Rose, L.                    | 1005        |
 | Zuo, Hw.                    | 541         |
 
