@@ -29,16 +29,16 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 
 ## Registered Players
 Last updated: Jun. 2, 2026, 4:00pm ET
-Open
+## Open
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Zuo, Hs.                    | 1911        |
 
-U1800
+## U1800
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 
-U1200
+## U1200
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Zuo, Hw.                    | 517         |
