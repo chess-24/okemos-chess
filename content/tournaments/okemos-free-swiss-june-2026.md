@@ -24,4 +24,14 @@ Last updated: Jun. 2, 2026, 4:00pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | :---------- |
 | Zuo, Hs.                    | 1911        |
+| McGowan, M.                 | 1533        |
+| Croel, E.                   | 1488        |
+| Rankin, H.                  | 1430        |
+| Zhang, H.                   | 1153        |
+| Li, H.                      | 729         |
+| Arrington, K.               | 645         |
+| Garg, Y.                    | 584         |
 | Zuo, Hw.                    | 517         |
+| Zhang, D.                   | 469         |
+| Chen, O.                    | 349         |
+
