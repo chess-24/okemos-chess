@@ -37,10 +37,13 @@ Last updated: Jun. 2, 2026, 4:00pm ET
 ## U1800
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
+| Zhang, H.                   | 1153        |
 
 ## U1200
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
+| Galloway, T. (pending)      | 808         |
 | Zuo, Hw.                    | 517         |
+| Zhang, D.                   | 469         |
 
 
