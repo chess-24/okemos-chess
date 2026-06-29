@@ -28,7 +28,7 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Jun. 2, 2026, 4:00pm ET
+Last updated: Jun. 28, 2026, 10:00pm ET
 ## Open
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
