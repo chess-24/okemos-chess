@@ -1,6 +1,6 @@
 +++
 title = 'East Lansing 3 Round Swiss, July 11, 2026'
-date = 2026-07-05T01:00:08-05:00
+date = 2026-07-05T01:41:08-05:00
 draft = false
 +++
 ## Sign-up
