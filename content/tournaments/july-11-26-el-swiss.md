@@ -40,27 +40,16 @@ Last updated: Jul. 8, 2026, 9:00am ET
 ## U1800
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
-| Zhang, Hz.                   | 1153        |
+| Zhang, Hz.                  | 1153        |
 
 ## U1200
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Galloway, T. (pending)      | 915         |
-<<<<<<< HEAD
-| Zhang, H.                   | 736         |
-| Li, H.                      | 729         |
-| Garg, Y. (pending)          | 584         |
-| Zuo, Hw.                    | 517         |
-| Zhang, D.                   | 469         |
-| Zhang, J. (pending)         | 101         |
-| Beard, C.                   | unr         |
-=======
-| Zhang, Hr.                   | 736         |
+| Zhang, Hr.                  | 736         |
 | Li, H.                      | 729         |
 | Garg, Y.                    | 584         |
 | Zuo, Hw.                    | 517         |
 | Zhang, D.                   | 469         |
-| Beard, C.                   | Unr         |
->>>>>>> b0aafe8 (Add players to july 11, 2026 swiss)
-
-
+| Zhang, J. (pending)         | 101         |
+| Beard, C.                   | unr         |
