@@ -51,5 +51,5 @@ Last updated: Jul. 8, 2026, 9:00am ET
 | Garg, Y.                    | 584         |
 | Zuo, Hw.                    | 517         |
 | Zhang, D.                   | 469         |
-| Zhang, J. (pending)         | 101         |
+| Zhang, J.                   | 101         |
 | Beard, C.                   | unr         |
