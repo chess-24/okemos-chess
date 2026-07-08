@@ -32,8 +32,10 @@ Last updated: Jul. 5, 2026, 5:00pm ET
 ## Open
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
+| Yassine, W.                 | 1977        |
 | Hug, T.                     | 1957        | 
 | Zuo, Hs.                    | 1911        |
+| Bieda, J.                   | 1621        |
 
 ## U1800
 | Name                        | USCF Rating |
@@ -44,8 +46,12 @@ Last updated: Jul. 5, 2026, 5:00pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Galloway, T. (pending)      | 915         |
+| Zhang, H.                   | 736         |
 | Li, H.                      | 729         |
+| Garg, Y. (pending)          | 584         |
 | Zuo, Hw.                    | 517         |
 | Zhang, D.                   | 469         |
+| Zhang, J. (pending)         | 101         |
+| Beard, C.                   | unr         |
 
 
