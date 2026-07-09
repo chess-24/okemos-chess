@@ -36,10 +36,13 @@ Last updated: Jul. 8, 2026, 9:00am ET
 | Hug, T.                     | 1957        | 
 | Zuo, Hs.                    | 1911        |
 | Bieda, J.                   | 1621        |
+| Narajan, S.                 | unr         |
+
 
 ## U1800
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
+| Rajeshkumar, V.             | 1300        |
 | Zhang, Hz.                  | 1153        |
 
 ## U1200
@@ -51,5 +54,6 @@ Last updated: Jul. 8, 2026, 9:00am ET
 | Garg, Y.                    | 584         |
 | Zuo, Hw.                    | 517         |
 | Zhang, D.                   | 469         |
+| Chen, O.                    | 349         |
 | Zhang, J.                   | 101         |
 | Beard, C.                   | unr         |
