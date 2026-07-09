@@ -28,7 +28,7 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Jul. 8, 2026, 9:00am ET
+Last updated: Jul. 9, 2026, 7:30pm ET
 ## Open
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
@@ -36,6 +36,8 @@ Last updated: Jul. 8, 2026, 9:00am ET
 | Hug, T.                     | 1957        | 
 | Zuo, Hs.                    | 1911        |
 | Bieda, J.                   | 1621        |
+| Abbas, A.                   | 1448        |
+| Benoit, M.                  | unr         |
 | Narajan, S.                 | unr         |
 
 
@@ -48,7 +50,9 @@ Last updated: Jul. 8, 2026, 9:00am ET
 ## U1200
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
+| Jones, H.                   | 1185        |
 | Galloway, T. (pending)      | 915         |
+| Arjun, P.                   | 824         |
 | Zhang, Hr.                  | 736         |
 | Li, H.                      | 729         |
 | Garg, Y.                    | 584         |
