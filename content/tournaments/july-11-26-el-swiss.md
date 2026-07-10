@@ -37,6 +37,7 @@ Last updated: Jul. 9, 2026, 11:40pm ET
 | Zuo, Hs.                    | 1911        |
 | Bieda, J.                   | 1621        |
 | Abbas, A.                   | 1448        |
+| Berenstein, H.              | 1018        |
 | Benoit, M.                  | unr         |
 | Narajan, S.                 | unr         |
 
