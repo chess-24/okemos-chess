@@ -52,7 +52,6 @@ Last updated: Jul. 9, 2026, 11:40pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Jones, H.                   | 1185        |
-| Galloway, T. (pending)      | 915         |
 | Yeole, V.                   | 864         |
 | Arjun, P.                   | 824         |
 | Zhang, Hr.                  | 736         |
