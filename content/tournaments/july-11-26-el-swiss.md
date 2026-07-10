@@ -28,7 +28,7 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Jul. 9, 2026, 7:30pm ET
+Last updated: Jul. 9, 2026, 11:40pm ET
 ## Open
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
@@ -52,6 +52,7 @@ Last updated: Jul. 9, 2026, 7:30pm ET
 | :-------------------------- | ----------: |
 | Jones, H.                   | 1185        |
 | Galloway, T. (pending)      | 915         |
+| Yeole, V.                   | 864         |
 | Arjun, P.                   | 824         |
 | Zhang, Hr.                  | 736         |
 | Li, H.                      | 729         |
