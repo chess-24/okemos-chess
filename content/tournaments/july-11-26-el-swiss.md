@@ -39,23 +39,24 @@ Last updated: Jul. 9, 2026, 11:40pm ET
 | Abbas, A.                   | 1448        |
 | Berenstein, H.              | 1018        |
 | Benoit, M.                  | unr         |
-| Narajan, S.                 | unr         |
+| Rajeshkumar, S.             | unr         |
 
 
 ## U1800
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
-| Rajeshkumar, V.             | 1300        |
+| Sankaran, V.                | 1300        |
+| Jones, H.                   | 1185        |
 | Zhang, Hz.                  | 1153        |
+| Zhang, Hr.                  | 736         |
 
 ## U1200
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
-| Jones, H.                   | 1185        |
 | Yeole, V.                   | 864         |
 | Arjun, P.                   | 824         |
-| Zhang, Hr.                  | 736         |
 | Li, H.                      | 729         |
+| Agrawal, A.                 | 718         |
 | Garg, Y.                    | 584         |
 | Zuo, Hw.                    | 517         |
 | Zhang, D.                   | 469         |
