@@ -1,6 +1,6 @@
 +++
 title = 'East Lansing 5 Round Swiss, July 25, 2026'
-date = 2026-07-05T00:41:08-05:00
+date = 2026-07-06T00:41:08-05:00
 draft = false
 +++
 ## Sign-up
@@ -32,7 +32,12 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 Last updated: Jul. 5, 2026, 11:00pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
+| Hug, T.                     | 1957        |
 | Zuo, Hs.                    | 1918        |
+| Galloway, T. (pending)      |  915        |
+| Feldman, J.                 |  629        |
 | Zuo, Hw.                    |  549        |       
+| Zhang, J. (pending)         |  201        |
+| Rajeshkumar, S.             |  ---        |
 
 
