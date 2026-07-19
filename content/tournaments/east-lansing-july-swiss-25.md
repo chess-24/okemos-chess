@@ -29,7 +29,7 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Jul. 5, 2026, 11:00pm ET
+Last updated: Jul. 19, 2026, 2:00pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Hug, T.                     | 1957        |
