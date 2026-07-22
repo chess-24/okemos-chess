@@ -29,15 +29,18 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Jul. 19, 2026, 2:00pm ET
+Last updated: Jul. 22, 2026, 5:00pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
+| Yassine, W.                 | 1977        |
 | Hug, T.                     | 1957        |
 | Zuo, Hs.                    | 1918        |
 | Galloway, T. (pending)      |  915        |
+| Li, H.                      |  729        |
 | Feldman, J.                 |  629        |
 | Zuo, Hw.                    |  549        |       
-| Zhang, J. (pending)         |  201        |
-| Rajeshkumar, S.             |  ---        |
+| Sathish, D. (pending)       |  513        |
+| Zhang, J.                   |  201        |
+| Rajeshkumar, S.             |  100        |
 
 
