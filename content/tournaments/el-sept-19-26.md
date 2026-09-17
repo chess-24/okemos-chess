@@ -32,6 +32,7 @@ Last updated: Jul. 9, 2026, 11:40pm ET
 ## Open
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
+| Hug, T.                     | 1931        |
 | Zuo, Hs.                    | 1911        |
 
 
