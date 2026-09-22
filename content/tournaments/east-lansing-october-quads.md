@@ -1,5 +1,5 @@
 +++
-title = 'East Lansing Quads - November 29, 2025'
+title = 'East Lansing Quads - October 3, 2026'
 date = 2026-10-01T00:41:08-05:00
 draft = false
 +++
