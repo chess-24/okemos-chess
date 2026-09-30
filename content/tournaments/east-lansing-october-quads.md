@@ -30,5 +30,8 @@ Quads of 4 players by rating (with a potential for a section of 6). Everyone pla
 ## Registered Players
 | Name                        | USCF Rating |
 | :-------------------------- | :---------- |
+| Hug, T.                     | 1931        |
 | Zuo, Hs.                    | 1907        |
+| Welch, D. (pending)         | 1425        |
 | Zuo, Hw.                    | 644         |
+| Guo, A. (pending)           | 365         |
