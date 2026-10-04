@@ -1,6 +1,6 @@
 +++
 title = 'East Lansing 6 Round Super Swiss, October 31, 2026'
-date = 2026-09-29T00:41:08-05:00
+date = 2026-10-04T00:41:08-05:00
 draft = false
 +++
 ## Sign-up
