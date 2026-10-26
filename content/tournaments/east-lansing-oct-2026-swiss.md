@@ -34,6 +34,8 @@ Last updated: Jan. 30, 2026, 11:00pm ET
 | :-------------------------- | ----------: |
 | Zuo, Hs.                    | 1907        |
 | Pratt, G.                   | 1800        |
+| Yeole, V.(pending payment)  | 1147        |        
 | Jingade, R.(pending payment)|  722        |
 | Zuo, Hw.                    |  644        |
+| Morley, A.(pending form)    |  544        |
 | Beha, R.                    |  491        |
