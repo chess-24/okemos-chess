@@ -33,5 +33,7 @@ Last updated: Jan. 30, 2026, 11:00pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Zuo, Hs.                    | 1907        |
+| Pratt, G.                   | 1800        |
+| Jingade, R. *pending payment|  722        |
 | Zuo, Hw.                    |  644        |
 | Beha, R.                    |  491        |
