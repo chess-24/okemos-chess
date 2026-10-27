@@ -29,7 +29,7 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Jan. 30, 2026, 11:00pm ET
+Last updated: Oct. 27, 2026, 1:00pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Zuo, Hs.                    | 1907        |
@@ -37,5 +37,6 @@ Last updated: Jan. 30, 2026, 11:00pm ET
 | Yeole, V.(pending payment)  | 1147        |        
 | Jingade, R.(pending payment)|  722        |
 | Zuo, Hw.                    |  644        |
-| Morley, A.(pending form)    |  544        |
+| Morley, A.                  |  544        |
 | Beha, R.                    |  491        |
+| Current, C.(pending payment)|  unr        |
