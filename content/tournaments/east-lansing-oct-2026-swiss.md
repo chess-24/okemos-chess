@@ -29,12 +29,12 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Oct. 29, 2026, 8:00pm ET
+Last updated: Oct. 29, 2026, 10:00pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Zuo, Hs.                    | 1907        |
 | Pratt, G.                   | 1800        |
-| Fawcett A.(pending form)    | 1706        | 
+| Fawcett A.                  | 1706        | 
 | Sankaran V.(pending form)   | 1278        |
 | Yeole, V.                   | 1147        |
 | Czopp, N.                   |  878        | 
