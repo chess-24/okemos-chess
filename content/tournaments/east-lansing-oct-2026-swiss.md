@@ -43,4 +43,3 @@ Last updated: Oct. 29, 2026, 10:00pm ET
 | Morley, A.                  |  544        |
 | Beha, R.                    |  491        |
 | Guo, A.                     |  447        |
-| Current, C.(pending payment)|  unr        |
