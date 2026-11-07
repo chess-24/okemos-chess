@@ -33,6 +33,7 @@ Last updated: Nov. 3, 2026, 1:00am ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Zuo, Hs.                    | 1939        |
+| Schulze, K.                 |  728        |
 | Zuo, Hw.                    |  561        |
 
 
