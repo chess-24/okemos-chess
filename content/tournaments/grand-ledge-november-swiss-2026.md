@@ -4,7 +4,7 @@ date = 2026-11-03T00:41:08-05:00
 draft = false
 +++
 ## Sign-up
-The registration deadline is **Thursday, November 12, 10 PM EST.**
+The registration deadline is **Friday, November 13, 10 PM EST.**
 To play, you must register and pay online before the deadline because pairing for round one is performed prior to tournament start.
 
 ### Standard Entry
@@ -29,10 +29,11 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Nov. 3, 2026, 1:00am ET
+Last updated: Nov. 12, 2026, 1:00am ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Zuo, Hs.                    | 1939        |
+| Fideli, Q.                  | 1405        |
 | Schulze, K.                 |  728        |
 | Jingade, R.                 |  682        |
 | Zuo, Hw.                    |  561        |
