@@ -1,6 +1,6 @@
 +++
 title = 'East Lansing 6 Round Super Swiss, November 28, 2026'
-date = 2026-11-02T00:41:08-05:00
+date = 2026-11-14T00:41:08-05:00
 draft = false
 +++
 ## Sign-up
@@ -29,10 +29,11 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Nov. 2, 2026, 8:00pm ET
+Last updated: Nov. 14, 2026, 8:00pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Zuo, Hs.                    | 1892        |
+| Lamond, R.                  |  646        |
 | Zuo, Hw.                    |  561        |
 
 
