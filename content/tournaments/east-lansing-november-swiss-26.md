@@ -33,6 +33,7 @@ Last updated: Nov. 14, 2026, 8:00pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Zuo, Hs.                    | 1892        |
+| Kornoely, T.                | 1472        |
 | Lamond, R.                  |  646        |
 | Zuo, Hw.                    |  561        |
 
