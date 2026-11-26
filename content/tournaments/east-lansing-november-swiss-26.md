@@ -32,8 +32,10 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 Last updated: Nov. 14, 2026, 8:00pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
+| Brumley, Eu.                | 2161        |
 | Zuo, Hs.                    | 1892        |
-| Brumley, E.                 | 1484        |
+| Fawcett, A.                 | 1717        |
+| Brumley, Ep.                | 1484        |
 | Kornoely, T.                | 1472        |
 | Lamond, R.                  |  646        |
 | Zuo, Hw.                    |  561        |
