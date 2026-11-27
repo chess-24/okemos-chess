@@ -29,15 +29,15 @@ To activate/reactivate USCF membership at a discount, please follow the instruct
 - Please bring: chess clock, pen, and chess set
 
 ## Registered Players
-Last updated: Nov. 14, 2026, 8:00pm ET
+Last updated: Nov. 27, 2026, 7:00pm ET
 | Name                        | USCF Rating |
 | :-------------------------- | ----------: |
 | Brumley, Eu.                | 2161        |
-| Zuo, Hs.                    | 1892        |
+| Zuo, Hs.                    | 1927        |
 | Fawcett, A.                 | 1717        |
+| Stefanski, M.               | 1714        |
 | Brumley, Ep.                | 1484        |
 | Kornoely, T.                | 1472        |
 | Lamond, R.                  |  646        |
 | Zuo, Hw.                    |  561        |
-
 
